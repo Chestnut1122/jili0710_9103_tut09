@@ -33,6 +33,7 @@ This is my first local change to the repo!
 I was inspired by the Tesseract scene in *Interstellar* (2014), where Cooper enters a five-dimensional space visualized through layered glowing rectangles and repeated bookshelf structures. What fascinates me is how repetition and perspective are used to create a sense of depth and infinite extension within a confined frame. I’d like to incorporate this kind of **visually nested structure** into my project, possibly through animated recursive shapes or grid-based spatial layouts. I believe this approach can enhance the visual effect and spatial experience of my final creative coding work.
 
 ![Tesseract Visual](./assets/tesseract.png)
+![Tesseract2 Visual](./assets/tesseract-2.png)
 
 ---
 
